@@ -6,3 +6,4 @@ gerber-files
 *.s##
 *.pro
 *.job
+*.lck
